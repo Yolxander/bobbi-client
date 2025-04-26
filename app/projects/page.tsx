@@ -11,7 +11,7 @@ import ProjectGrid from "@/app/sections/projects/ProjectGrid"
 
 export default function Projects() {
   return (
-    <div className="flex min-h-screen bg-gradient-to-br from-purple-50 to-pink-50 p-6">
+    <div className="flex min-h-screen bg-gradient-to-br from-sky-50 to-blue-50 p-6">
       <div className="flex w-full max-w-7xl mx-auto gap-6 border border-gray-100/20 rounded-3xl shadow-lg backdrop-blur-xl bg-white/30">
         <SideNav activePath="/projects" />
 
